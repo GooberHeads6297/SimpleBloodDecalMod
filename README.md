@@ -10,6 +10,9 @@ This is a simple mod for Minecraft 1.19.2 that gives entities a chance to bleed 
 The Particles are a bit small, but I hope I made this so it doesn't get in the way of visibility.
 
 
+![Untitled video (1)](https://github.com/user-attachments/assets/4df453ba-e7ac-42f6-9132-6983975f1752)
+
+
 
 ![Screenshot 2025-01-23 194346](https://github.com/user-attachments/assets/46f643c6-ed23-452a-b9eb-81bd44a95650)
 
